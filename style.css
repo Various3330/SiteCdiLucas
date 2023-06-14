@@ -1,6 +1,5 @@
-
 body{
-background-color: rgb(39, 39, 39);
+    background-color: rgb(39, 39, 39)
 }
 h1{
     text-align:center ;
@@ -9,4 +8,12 @@ h1{
 }
 h2{
     color: rgb(245, 194, 12);
+}
+main{
+    height: 50vh;
+    width: 90%;
+    border: 3px solid rgb(0,140,255);
+    background-color: white;
+    border-radius: 50px;
+    margin: 0 auto;
 }
